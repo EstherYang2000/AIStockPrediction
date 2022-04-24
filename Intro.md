@@ -1,4 +1,4 @@
-# The utilization of AI and data of social media in regard with stock investment
+# The utilization of AI and data of social media in regard to stock investment
 
 ## ⭐篩選看漲及看跌文章
 ## ⭐關鍵字建構向量空間
